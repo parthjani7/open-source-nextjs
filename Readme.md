@@ -27,8 +27,9 @@ A curated collection of **open-source projects** built using **Next.js**, the po
 - [**Documenso**](https://github.com/documenso/documenso) – Open-source DocuSign alternative
 - [**OpenResume**](https://github.com/xitanggg/open-resume) – Open-source resume builder
 
-### Starter Templates  
-- [**ChadNext**](https://github.com/moinulmoin/chadnext) – A quick starter template for Next.js projects  
+### Dev Tools & Starter Templates  
+- [**ChadNext**](https://github.com/moinulmoin/chadnext) – A quick starter template for Next.js projects
+- [**jsoncrack.com**](https://github.com/AykutSarac/jsoncrack.com) – A tool for visualizing JSON data in a structured, interactive graphs, making it easier to explore, format, and validate JSON
 
 ### 🛍️ E-commerce  
 - [**Skateshop**](https://github.com/sadmann7/skateshop) – Open-source e-commerce skateshop  
