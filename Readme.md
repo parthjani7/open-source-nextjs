@@ -4,14 +4,6 @@ A curated collection of **open-source projects** built using **Next.js**, the po
 
 ---
 
-## 📌 About  
-
-Next.js is a **powerful framework for building modern web applications**. Developed by **Vercel**, it enables features like **Server-Side Rendering (SSR), Static Site Generation (SSG), API Routes, and more**, making it a top choice for developers worldwide.  
-
-This repository serves as a **hub** for Next.js open-source projects. Whether it's a blog, an e-commerce platform, a dashboard, or a community-driven application, you'll find a variety of projects to explore, learn from, and contribute to.  
-
----
-
 ## 🏆 Featured Projects  
 
 | Project Name  | Description  |
