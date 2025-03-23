@@ -7,8 +7,8 @@ A curated collection of **open-source projects** built using **Next.js**, the po
 ## 🏆 Featured Projects  
 
 ### 🔗 Link & File Management  
-- [**Dub**](https://github.com/dub-inc/dub) – Open-source link management infrastructure  
-- [**Papermark**](https://github.com/papermark/papermark) – Open-source Dropbox DocSend alternative  
+- [**Dub**](https://github.com/dubinc/dub) – Open-source link management infrastructure  
+- [**Papermark**](https://github.com/mfts/papermark) – Open-source Dropbox DocSend alternative  
 
 ### 📅 Productivity & Scheduling  
 - [**Cal.com**](https://github.com/calcom/cal.com) – Open-source Calendly alternative  
@@ -18,39 +18,36 @@ A curated collection of **open-source projects** built using **Next.js**, the po
 
 ### 📊 Business & Operations  
 - [**Midday**](https://github.com/midday-ai/midday) – Open-source tool for freelancers, contractors, and consultants to manage business operations  
-- [**Phase/console**](https://github.com/phasehq/console) – Secure and deploy application secrets from development to production  
-
-### 🔒 Security & Compliance  
-- [**Comp AI**](https://github.com/trycompai/comp) – Open-source compliance platform  
-- [**Infisical**](https://github.com/Infisical/infisical) – Open-source secret management platform (alternative to HashiCorp Vault)  
+- [**Phase/console**](https://github.com/phasehq/console) – Secure and deploy application secrets from development to production
+- [**Umami**](https://github.com/umami-software/umami) – Alternative to Google Analytics
+- [**Infisical**](https://github.com/Infisical/infisical) – Open-source secret management platform (alternative to HashiCorp Vault)
 
 ### 📄 Documents & Forms  
 - [**Formbricks**](https://github.com/formbricks/formbricks) – Open-source survey platform  
-- [**Documenso**](https://github.com/documenso/documenso) – Open-source DocuSign alternative  
+- [**Documenso**](https://github.com/documenso/documenso) – Open-source DocuSign alternative
+- [**OpenResume**](https://github.com/xitanggg/open-resume) – Open-source resume builder
 
-### ✉️ Email & Communication  
-- [**Inbox Zero**](https://github.com/inboxzeroapp/inboxzero) – Open-source email app with AI assistance  
-
-### 📜 Resumes & Career  
-- [**OpenResume**](https://github.com/openresumebuilder/openresume) – Open-source resume builder  
-
-### 🛠️ Development Tools & Starters  
+### Starter Templates  
 - [**ChadNext**](https://github.com/moinulmoin/chadnext) – A quick starter template for Next.js projects  
-- [**FastGPT**](https://github.com/labring/FastGPT) – AI-powered knowledge base creation  
 
 ### 🛍️ E-commerce  
 - [**Skateshop**](https://github.com/sadmann7/skateshop) – Open-source e-commerce skateshop  
+- [**Saleor**](https://github.com/saleor/saleor) – High-performance e-commerce solution  
+- [**Medusa**](https://github.com/medusajs/medusa) – Open-source headless commerce engine  
 
 ### 🛠️ Project Management  
 - [**Plane**](https://github.com/makeplane/plane) – Open-source Jira alternative  
 
 ### 🤖 AI & Machine Learning  
-- [**Photoshot**](https://github.com/photoshot-ai/photoshot) – Open-source AI avatar generator  
+- [**Photoshot**](https://github.com/baptadn/photoshot) – Open-source AI avatar generator  
 - [**Civitai**](https://github.com/civitai/civitai) – Repository of AI models, textual inversions, and more  
+- [**lobe-chat**](https://github.com/lobehub/lobe-chat) – An open-source, modern-design ChatGPT/LLMs UI/Framework.
+- [**Inbox Zero**](https://github.com/elie222/inbox-zero) – Open-source email app with AI assistance
+- [**Comp AI**](https://github.com/trycompai/comp) – Open-source compliance platform
 
 ---
 
-## 🤝 Contributing  
+## 🤝 Contributing
 
 Want to **showcase your Next.js project**? Follow these simple steps:  
 
